@@ -1,0 +1,115 @@
+body {
+  height: 2000px;
+  margin-top: 400px;
+}
+.kotak {
+  width: 100%;
+  height: 60px;
+  margin: auto;
+  background-color: lightcyan;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.kotak .k {
+  width: 100%;
+  text-align: center;
+  line-height: -90px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: -1px;
+}
+.container {
+  width: 900px;
+  background-color: aliceblue;
+  margin: auto;
+}
+.header {
+  font-weight: bold;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-left: 5px;
+}
+li {
+  display: inline-block;
+  margin-left: -30px;
+  margin-right: 50px;
+  margin-top: -60px;
+}
+a {
+  text-decoration: none;
+}
+.hero {
+  background-image: url(bapak.jpeg);
+  background-repeat: no-repeat;
+}
+.hero img {
+  width: 100%;
+  height: 500px;
+  background-position: 5px 9px;
+  margin: 1px;
+  margin-top: 3px;
+  margin-bottom: -6px;
+  border-bottom: 7px solid red;
+  border-top: 7px solid green;
+}
+.main {
+  margin-left: 5px;
+  width: 500px;
+  float: left;
+}
+h2 {
+  margin-top: -3px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.jimmi {
+  margin-top: -30px;
+  margin-left: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+p {
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.penulis {
+  margin-left: 25px;
+  width: 300px;
+  float: left;
+}
+.penulis img {
+  width: 100px;
+  height: 100px;
+}
+.penulis p {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: normal;
+}
+.clear {
+  clear: both;
+}
+.footer p {
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+}
